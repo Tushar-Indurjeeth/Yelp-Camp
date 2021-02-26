@@ -60,3 +60,6 @@
 
 - Platform:
   - [Heroku](https://www.heroku.com/)
+
+## License
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Yelp-Camp/blob/master/LICENSE)
