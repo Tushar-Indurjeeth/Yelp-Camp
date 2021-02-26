@@ -1,5 +1,5 @@
 # Yelp-Camp 2021
-- A Node.js web app project done from the Udemy course: [The Web Developer Bootcamp 2021 by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- A Node.js web app project done from the Udemy course: [The Web Developer Bootcamp 2021 by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
 ## Demo
 [Yelp Camp Demo](https://blooming-harbor-56083.herokuapp.com/campgrounds)
@@ -62,4 +62,4 @@
   - [Heroku](https://www.heroku.com/)
 
 ## License
-Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Yelp-Camp/blob/master/LICENSE)
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Yelp-Camp/blob/master/LICENSE).
