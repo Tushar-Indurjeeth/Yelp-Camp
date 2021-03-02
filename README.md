@@ -1,8 +1,8 @@
 # Yelp-Camp 2021
 - A Node.js web app project done from the Udemy course: [The Web Developer Bootcamp 2021 by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
-## Demo
-[Yelp Camp Demo](https://blooming-harbor-56083.herokuapp.com/campgrounds)
+## Live Demo
+[Yelp Camp Demo](https://blooming-harbor-56083.herokuapp.com/)
 
 ## Features
 - Authentication:
@@ -26,18 +26,18 @@
 
 ## Built using
 
-- APIs used:
+### APIs used
   - [Cloudinary API](https://cloudinary.com/)
   - [Mapbox Api](https://www.mapbox.com/)
  
-- Front-end:
+### Front-end
   - [HTML 5](https://en.wikipedia.org/wiki/HTML5)
   - [CSS 3](https://en.wikipedia.org/wiki/CSS)
   - [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
   - [EJS](https://ejs.co/)
  
-- Back-end:
+### Back-end
   - [Node.js](https://nodejs.org/en/)
   - [express.js](https://expressjs.com/)
   - [mongooseJs](https://mongoosejs.com/)
@@ -54,11 +54,11 @@
   - [express-session](https://www.npmjs.com/package/express-session)
   - [cloudinary](https://cloudinary.com/)
 
-- Databases: 
+### Databases
   - [MongoDB](https://www.mongodb.com/)
   - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
-- Platform:
+### Platform
   - [Heroku](https://www.heroku.com/)
 
 ## License
